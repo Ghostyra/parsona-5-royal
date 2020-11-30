@@ -14,16 +14,19 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+Lib/
 lib64/
 parts/
 sdist/
+Scripts/
+Include/
 var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+pyvenv.cfg
 *.egg
 MANIFEST
 
@@ -39,6 +42,7 @@ pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
+.idea/
 .tox/
 .nox/
 .coverage

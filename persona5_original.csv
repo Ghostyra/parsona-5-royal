@@ -1,0 +1,70 @@
+Name,Arcana,Base level,Strength,Magic,Endurance,Agility,Luck,Inherit,Reflects,Absorbs,Block,Resists,Weak,List of Skills
+Arsène,"
+Origin
+Modern Fiction
+",Fool,1,2,2,2,3,1,Curse,-,-,-,Curse,"Ice, Bless","{""skills"": [{""name"": ""Eiha"", ""level"": 1}, {""name"": ""Cleave"", ""level"": 2}, {""name"": ""Sukunda"", ""level"": 4}, {""name"": ""Dream Needle"", ""level"": 5}, {""name"": ""Adverse Resolve"", ""level"": 7}]}"
+Obariyon,"
+Origin
+Japanese Mythology
+",Fool,8,7,3,9,8,4,Phys,-,-,-,Phys,Elec,"{""skills"": [{""name"": ""Snap"", ""level"": 8}, {""name"": ""Sukunda"", ""level"": 8}, {""name"": ""Lucky Punch"", ""level"": 9}, {""name"": ""Resist Fear"", ""level"": 10}, {""name"": ""Dekaja"", ""level"": 12}]}"
+High_Pixie,"
+Origin
+English Mythology
+",Fool,16,8,14,10,13,10,Recovery,-,-,-,"Elec, Wind","Gun, Nuclear","{""skills"": [{""name"": ""Garu"", ""level"": 16}, {""name"": ""Media"", ""level"": 16}, {""name"": ""Dormina"", ""level"": 16}, {""name"": ""Diarama"", ""level"": 19}, {""name"": ""Pulinpa"", ""level"": 20}, {""name"": ""Magaru"", ""level"": 22}]}"
+Izanagi,"
+Origin
+Japanese Mythology
+",Fool,20,14,13,13,14,13,Almighty,-,-,Curse,Electricity,Wind,"{""skills"": [{""name"": ""Cross Slash"", ""level"": 20}, {""name"": ""Zionga"", ""level"": 20}, {""name"": ""Tarukaja"", ""level"": 20}, {""name"": ""Rising Slash"", ""level"": 21}, {""name"": ""Dodge Phys"", ""level"": 22}, {""name"": ""Mazionga"", ""level"": 24}, {""name"": ""Growth 3"", ""level"": 25}]}"
+Izanagi Picaro ,"
+Origin
+Japanese Mythology
+",Fool,23,16,15,15,16,14,Almighty,-,-,"Electricity, Curse",-,Wind,"{""skills"": [{""name"": ""Cross Slash"", ""level"": 23}, {""name"": ""Zionga"", ""level"": 23}, {""name"": ""Rakukaja"", ""level"": 23}, {""name"": ""Rising Slash"", ""level"": 24}, {""name"": ""Null Phys"", ""level"": 25}, {""name"": ""Mazionga"", ""level"": 27}, {""name"": ""Growth 3"", ""level"": 28}]}"
+Orpheus,"
+Origin
+Greco-Roman Mythology
+",Fool,26,17,17,17,17,17,Almighty,-,-,-,Bless,"Electricity, Curse","{""skills"": [{""name"": ""Cadenza"", ""level"": 26}, {""name"": ""Agilao"", ""level"": 26}, {""name"": ""Tarunda"", ""level"": 26}, {""name"": ""Endure"", ""level"": 27}, {""name"": ""Maragion"", ""level"": 29}, {""name"": ""Marakukaja"", ""level"": 30}, {""name"": ""Fire Boost"", ""level"": 32}]}"
+Orpheus Picaro ,"
+Origin
+Greco-Roman Mythology
+",Fool,29,19,19,19,19,18,Almighty,-,-,-,Bless,"Electricity, Curse","{""skills"": [{""name"": ""Cadenza"", ""level"": 29}, {""name"": ""Maragion"", ""level"": 29}, {""name"": ""Matarunda"", ""level"": 29}, {""name"": ""Endure"", ""level"": 30}, {""name"": ""Agidyne"", ""level"": 32}, {""name"": ""Matarukaja"", ""level"": 33}, {""name"": ""Fire Boost"", ""level"": 35}]}"
+Orpheus Picaro ,"
+Origin
+Greco-Roman Mythology
+",Fool,11,8,9,8,9,6,Almighty,-,-,-,Bless,"Electricity, Curse","{""skills"": [{""name"": ""Neo Cadenza"", ""level"": 11}, {""name"": ""Agi"", ""level"": 11}, {""name"": ""Tarunda"", ""level"": 11}, {""name"": ""Endure"", ""level"": 11}, {""name"": ""Maragion"", ""level"": 12}, {""name"": ""Marakukaja"", ""level"": 14}, {""name"": ""Dodge Curse"", ""level"": 15}]}"
+Orpheus Picaro  Female Picaro (Royal only) ,"
+Origin
+Greco-Roman Mythology
+",Fool,13,9,11,9,10,7,Almighty,-,-,-,Bless,"Electricity, Curse","{""skills"": [{""name"": ""Neo Cadenza"", ""level"": 13}, {""name"": ""Maragi"", ""level"": 13}, {""name"": ""Rakunda"", ""level"": 13}, {""name"": ""Endure"", ""level"": 13}, {""name"": ""Agilao"", ""level"": 14}, {""name"": ""Marakukaja"", ""level"": 16}, {""name"": ""Dodge Curse"", ""level"": 17}]}"
+Legion,"
+Origin
+Abrahamic Mythology
+",Fool,38,24,24,30,23,20,Psy,-,-,Curse,"Physical, Gun, Fire, Psy",Bless,"{""skills"": [{""name"": ""Bloodbath"", ""level"": 38}, {""name"": ""Life Drain"", ""level"": 38}, {""name"": ""Evil Smile"", ""level"": 38}, {""name"": ""Foul Breath"", ""level"": 39}, {""name"": ""Tetra Break"", ""level"": 40}, {""name"": ""Null Dizzy"", ""level"": 42}, {""name"": ""Eigaon"", ""level"": 45}]}"
+Ose,"
+Origin
+Goetia Demons
+",Fool,42,32,24,25,31,21,Ailment,-,-,"Curse, Gun",Fire,Bless,"{""skills"": [{""name"": ""Oni-Kagura"", ""level"": 42}, {""name"": ""Counterstrike"", ""level"": 42}, {""name"": ""Taunt"", ""level"": 42}, {""name"": ""Tempest Slash"", ""level"": 43}, {""name"": ""Matarukaja"", ""level"": 45}, {""name"": ""Heat Wave"", ""level"": 47}]}"
+Bugs,"
+Origin
+English Mythology
+",Fool,49,35,33,30,32,24,Almighty,-,-,Curse,Psy,Nuclear,"{""skills"": [{""name"": ""Miracle Punch"", ""level"": 49}, {""name"": ""Masukunda"", ""level"": 49}, {""name"": ""Psiodyne"", ""level"": 49}, {""name"": ""Auto-Mataru"", ""level"": 51}, {""name"": ""Triple Down"", ""level"": 52}, {""name"": ""Evade Phys"", ""level"": 54}, {""name"": ""Fast Heal"", ""level"": 55}]}"
+Crystal_Skull,"
+Origin
+South American Mythology
+",Fool,50,50,50,50,50,50,-,-,-,-,"Physical, Gun",Wind,"{""skills"": [{""name"": ""Maragidyne"", ""level"": 50}, {""name"": ""Mabufudyne"", ""level"": 50}, {""name"": ""Maziodyne"", ""level"": 50}, {""name"": ""Magarudyne"", ""level"": 50}, {""name"": ""Mapsiodyne"", ""level"": 50}, {""name"": ""Mafreidyne"", ""level"": 50}, {""name"": ""Makougaon"", ""level"": 50}, {""name"": ""Maeigaon"", ""level"": 50}]}"
+Black_Frost,"
+Origin
+Original creations
+",Fool,67,44,46,41,42,35,Almighty,"Fire, Curse",Ice,Nuclear,-,-,"{""skills"": [{""name"": ""Mabufudyne"", ""level"": 67}, {""name"": ""One-shot Kill"", ""level"": 67}, {""name"": ""Miracle Punch"", ""level"": 67}, {""name"": ""Ice Amp"", ""level"": 68}, {""name"": ""Freeze Boost"", ""level"": 70}, {""name"": ""Repel Fire"", ""level"": 71}, {""name"": ""Diamond Dust"", ""level"": 72}]}"
+Raoul,-,Fool,76,47,49,43,54,42,Almighty,-,-,Curse,-,Bless,"{""skills"": [{""name"": ""Phantom Show"", ""level"": 76}, {""name"": ""Eigaon"", ""level"": 76}, {""name"": ""Ali Dance"", ""level"": 76}, {""name"": ""Maeigaon"", ""level"": 78}, {""name"": ""Heat Riser"", ""level"": 79}, {""name"": ""Curse Amp"", ""level"": 80}, {""name"": ""Concentrate"", ""level"": 81}, {""name"": ""Life Aid"", ""level"": 82}]}"
+Vishnu,"
+Origin
+Hindu Mythology
+",Fool,83,56,51,49,57,43,Almighty,-,Ice,"Bless, Curse",-,Fire,"{""skills"": [{""name"": ""Megidolaon"", ""level"": 83}, {""name"": ""Magarudyne"", ""level"": 83}, {""name"": ""Ali Dance"", ""level"": 83}, {""name"": ""Vacuum Wave"", ""level"": 85}, {""name"": ""Concentrate"", ""level"": 86}, {""name"": ""Repel Fire"", ""level"": 87}, {""name"": ""Wind Amp"", ""level"": 88}, {""name"": ""Riot Gun"", ""level"": 90}]}"
+Satanael,"
+Origin
+Abrahamic MythologyGnostic Mythology
+",Fool,95,63,60,57,56,56,Almighty,-,Curse,Bless,"Phys, Gun, Fire, Ice, Elec, Wind, Psy, Nuclear",-,"{""skills"": [{""name"": ""Maeigaon"", ""level"": 95}, {""name"": ""Megidolaon"", ""level"": 95}, {""name"": ""Survival Trick"", ""level"": 95}, {""name"": ""Riot Gun"", ""level"": 95}, {""name"": ""Black Viper"", ""level"": 96}, {""name"": ""Heat Riser"", ""level"": 97}, {""name"": ""Tyrant's Mind"", ""level"": 98}, {""name"": ""Victory Cry"", ""level"": 99}, {""name"": ""Sinful Shell"", ""level"": null}]}"
+Zorro,"
+Origin
+Modern Fiction
+",Magician,99,61,67,49,64,63,Wind,-,-,-,Wind,Electricity,"{""skills"": [{""name"": ""Garu"", ""level"": 99}, {""name"": ""Dia"", ""level"": 99}, {""name"": ""Patra"", ""level"": 5}, {""name"": ""Media"", ""level"": 11}, {""name"": ""Lucky Punch"", ""level"": 13}, {""name"": ""Magaru"", ""level"": 16}, {""name"": ""Pulinpa"", ""level"": 19}, {""name"": ""Me Patra"", ""level"": 21}, {""name"": ""Diarama"", ""level"": 24}, {""name"": ""Garula"", ""level"": 26}, {""name"": ""Recarm"", ""level"": 28}, {""name"": ""Wind Break"", ""level"": 32}, {""name"": ""Mediarama"", ""level"": 34}, {""name"": ""Magarula"", ""level"": 37}, {""name"": ""Miracle Punch"", ""level"": 40}, {""name"": ""Wind Boost"", ""level"": 43}, {""name"": ""Samarecarm"", ""level"": 45}, {""name"": ""Diarahan"", ""level"": 49}, {""name"": ""Garudyne"", ""level"": 52}, {""name"": ""Masukunda"", ""level"": 55}, {""name"": ""Mediarahan"", ""level"": 58}, {""name"": ""Magarudyne"", ""level"": 62}, {""name"": ""Wind Amp"", ""level"": 69}, {""name"": ""Salvation"", ""level"": 75}]}"
