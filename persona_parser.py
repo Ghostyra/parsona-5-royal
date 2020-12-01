@@ -1,6 +1,8 @@
 import csv
 import json
 from soup_creator import create_soup
+import pandas as pd
+import re
 
 
 class Persona5:
@@ -175,7 +177,7 @@ class Persona5:
                    'Reflects', 'Absorbs',
                    'Block', 'Resists', 'Weak', 'List of Skills']
 
-        with open('persona5_original.csv', 'w', encoding='utf-8', newline='\n') as f:
+        with open('persona5.csv', 'w', encoding='utf-8', newline='\n') as f:
             writer = csv.writer(f)
             writer.writerow(headers)
             for link in links:
@@ -186,3 +188,28 @@ class Persona5:
                 elif rows != 0:
                     writer.writerow(rows)
         f.close()
+
+    def edit_csv(self):
+        from edit_csv import sep_string, edit_effects
+
+        df = pd.read_csv("persona5.csv")
+        df["Origin"] = df["Origin"].apply(lambda x: re.sub('\n', '', x)[6:])
+        df["Origin"] = df["Origin"].apply(sep_string)
+        df["Name"] = df["Name"].apply(lambda x: x.replace("_", " "))
+        df.iloc[7, 0] = "Orpheus Female"
+        df.iloc[8, 0] = "Orpheus Female Picaro"
+
+        columns = list(df.columns.values)
+        columns.remove("List of Skills")
+        for column in columns[9:]:
+            df[column] = df[column].apply(edit_effects)
+
+        for i, column in enumerate(columns):
+            if i == 15:
+                df[column] = df[column].astype(json.loads)
+            elif i < 3 or i > 8:
+                pass
+            else:
+                df[column] = df[column].astype(int)
+
+        df.to_csv("persona5.csv")
